@@ -1,0 +1,36 @@
+﻿.breadcrumb {
+    padding: 20px 15px;
+    margin-bottom: 10px;
+    list-style: none;
+    background-color:rgba(242, 222, 222, 0.47);
+    border-radius: 4px;
+    margin-top: -1%;
+}
+
+
+.breadcrumb.breadcrumb1 > li + li:before {
+    content: "\f101";
+    font: normal normal normal 14px/1 FontAwesome;
+    color: #464646;
+    padding: 0 8px;
+}
+.breadcrumb > li + li:before {
+    padding: 0 5px;
+    color: #ccc;
+    content: "/\00a0";
+}
+.breadcrumb > li + li:before {
+    padding: 0 5px;
+    color: #ccc;
+    content: "/\00a0";
+}
+*:before, *:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: auto;
+    color: #70092c;
+}

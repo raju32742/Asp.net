@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AdminPanel>
+<ADMIN>
+<NAME>S M TASLIM UDDIN RAJU</NAME>
+<USERNAME>RAJU</USERNAME>
+<ADDRESS>Mirsharai,Chittagong</ADDRESS>
+<PHONENO>+8801758739848</PHONENO>
+<Email>Taslimuddinraju7864@Gmail.Com</Email>
+</ADMIN>
+<ADMIN>
+<NAME>TANVIR AHMAD</NAME>
+<USERNAME>SHISHIR</USERNAME>
+<ADDRESS>Mirsharai,Chittagong</ADDRESS>
+<PHONENO>+8801758739848</PHONENO>
+<Email>tanvir.shishir@Gmail.Com</Email>
+</ADMIN> 
+<ADMIN>
+<NAME>FARHANA MOULI</NAME>
+<USERNAME>MOULI</USERNAME>
+<ADDRESS>Dammondi,Dhaka</ADDRESS>
+<PHONENO>+8801758739848</PHONENO>
+<Email>prosun@gmail.com</Email>
+</ADMIN>
+<ADMIN>
+<NAME>S M TASLIM UDDIN RAJU</NAME>
+<USERNAME>RAJU</USERNAME>
+<ADDRESS>Dammondi,Dhaka</ADDRESS>
+<PHONENO>+8801758739848</PHONENO>
+<Email>Taslimuddinraju7864@Gmail.Com</Email>
+</ADMIN>
+<ADMIN>
+<NAME>MOSTAKIM BILLA</NAME>
+<USERNAME>RAJU</USERNAME>
+<ADDRESS>Mirsharai,Chittagong</ADDRESS>
+<PHONENO>+8801758739848</PHONENO>
+<Email>Taslimuddinraju7864@Gmail.Com</Email>
+</ADMIN>
+</AdminPanel>

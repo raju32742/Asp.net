@@ -1,0 +1,37 @@
+﻿ body{
+     background-color:rgba(104, 35, 35, 0.2);
+}
+
+
+.divreply
+{
+    Width:560px;
+     
+}
+.User_image
+{
+    width:50px;
+     height:50px; 
+   border-radius:100%;
+   border:1px solid pink;
+}
+.User_name
+{
+    background:#ff0074;
+    color:white;
+    font-weight:100;
+    border-radius:10px;
+    width:80%;
+    text-align:center;
+    margin-bottom:5px;
+}
+.User_nameP
+{
+    background:#ff0074;
+    color:white;
+    font-weight:100;
+    border-radius:10px;
+    width:30%;
+    text-align:center;
+      margin-bottom:5px;
+}

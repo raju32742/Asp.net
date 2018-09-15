@@ -1,0 +1,174 @@
+﻿ h3
+ {
+ color: #D7690C;
+font: italic bold 20px/30px Georgia, serif;
+ text-transform: capitalize;
+ }
+  .CP_Head_Usr
+{
+      float: right;
+    position: absolute;   
+    display: block;
+    right: -40px;
+     top: -4px;
+    background: rgba(0, 0, 0, .0001);
+ 
+}
+.CP_Head_Usr #usr
+{
+     margin: 10px 0px -5px 0px;
+    font: bold 13px 'Source Sans Pro', sans-serif;
+    color: #000;
+    padding: 4px 14px 4px 5px;
+    cursor: pointer;
+        position: relative;
+    display: block;
+    
+}
+.CP_Head_Usr #usr:hover
+{
+   border:2px solid #fd6239;
+   border-radius:2px;
+   overflow:hidden;
+       
+   
+}
+.img_thumb
+{
+    width: 67px;
+    height: 42px;
+    border: 1px solid #D8D8D8;
+    border-radius: 3px;
+    margin-left: -14px;
+    border-radius:100%;
+    /* float: left; */
+}
+
+.Un
+{
+        
+    margin-left: 50px;
+    margin-top: -46px;
+    padding: 10px 5px 0px 8px;
+}
+
+
+
+.usrhover
+{
+     background: #267FBB;     color: #fff;
+}
+.CP_Head_Usr h2:hover .CP_Head_down_icon 
+{     
+     color: #E42A2C;
+}
+.CP_Head_Usr_icon {
+    position: relative;
+color: #000;
+font-family: FontAwesome;
+font-size: 16px;
+margin: 0px 8px;
+}
+
+.CP_Head_Usr_icon:before {
+    content: "\f007"; 
+    color:white; 
+   
+}
+.CP_Head_down_icon {
+  color: #000;
+font-family: FontAwesome;
+font-size: 10px;
+margin: 0px 0px 0px 5px;
+}
+
+.CP_Head_down_icon:before {
+    content: "\f0dd";   
+     color:white; 
+   
+}
+#usrr
+{
+     display: none;
+}
+.CP_Head_Usr_Pan
+{
+    position: absolute;
+     width: 225px;
+    left: 0px;
+    top: 60px;
+    z-index: 100;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 2px;
+
+}
+.CP_Head_Pan_topdiv
+{
+background: #fff;
+     width: 225px;
+height: 150px;
+float: right;
+box-shadow: 0px 1.3px 1px #ccc;
+}
+.CP_Head_Pan_topdiv h5
+{
+margin: 5px 0px 0px 0px;
+color: #D7690C;
+font: italic bold 10px/20px Georgia, serif;
+ text-transform: capitalize;
+}
+.CP_Head_Pan_topdiv img
+{
+width: 118px;
+   height: 118px;
+    background: #A24C4C;
+    border-radius: 100%;
+    border: 2px solid #E04C4C;
+    margin: 5px 0px 0px 0px;
+}
+.CP_Head_Pan_btmdiv
+{
+background: #f1f1f1;
+height: 50px;
+float: right;
+    width: 225px;
+box-shadow: 0px 1.3px 1px #ccc;
+}
+.Logout
+{
+    background: #F4F4F4;
+border: 1px solid #D5D5D5;
+font: 14px segoe ui;
+color: #333;
+cursor: pointer;
+padding: 5px 12px 7px 12px;
+float: right;
+margin: 8px 12px 0px 0px;
+}
+.Logout:hover
+{
+     background: #ac3030;
+}
+.Logout:focus
+{
+     outline: none;
+}
+.Profile
+{
+    background: #F4F4F4;
+border: 1px solid #D5D5D5;
+font: 14px segoe ui;
+color: #333;
+cursor: pointer;
+padding: 5px 16px 7px 16px;
+float: left;
+margin: 8px 0px 0px 12px;
+}
+.Profile:hover
+{
+     background: #ac3030;
+}
+.Profile:focus
+{
+     outline: none;
+}
